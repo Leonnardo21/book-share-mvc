@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BookShareMVC")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0d7af7f6c27156f659763120333f9b8840f02395")]
 [assembly: System.Reflection.AssemblyProductAttribute("BookShareMVC")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BookShareMVC")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
